@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/S2606/kubernetes-ml-ud4.svg?style=svg)](https://circleci.com/gh/S2606/kubernetes-ml-ud4)
 
 ## Project Overview
 
